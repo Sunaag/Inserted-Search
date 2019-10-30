@@ -1,0 +1,10 @@
+word->are	file count: 1
+	filename: f1.txt	word count: 2
+word->hi	file count: 1
+	filename: f1.txt	word count: 2
+word->hello	file count: 1
+	filename: f1.txt	word count: 2
+word->how	file count: 1
+	filename: f1.txt	word count: 2
+word->you	file count: 1
+	filename: f1.txt	word count: 2
